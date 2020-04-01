@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/armstroj2/app-ip_address#readme",
   "dependencies": {
-    "ip-cidr": "^2.0.8"
+    "ip-cidr": "^2.0.10"
   }
 }
